@@ -1,0 +1,10 @@
+node_modules/
+
+
+
+!.env.example
+
+*.log
+
+.github/
+config.bat
